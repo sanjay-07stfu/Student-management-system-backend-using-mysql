@@ -1,0 +1,15 @@
+com\sanjay\studentmanagement\security\CustomUserDetailsService.class
+com\sanjay\studentmanagement\StudentManagementApplication.class
+com\sanjay\studentmanagement\auth\AuthController$TokenResponse.class
+com\sanjay\studentmanagement\auth\AuthController$RegisterRequest.class
+com\sanjay\studentmanagement\user\AppUserRepository.class
+com\sanjay\studentmanagement\auth\AuthController$MessageResponse.class
+com\sanjay\studentmanagement\security\JwtService.class
+com\sanjay\studentmanagement\auth\AuthController.class
+com\sanjay\studentmanagement\student\Student.class
+com\sanjay\studentmanagement\security\JwtAuthenticationFilter.class
+com\sanjay\studentmanagement\user\AppUser.class
+com\sanjay\studentmanagement\auth\AuthController$LoginRequest.class
+com\sanjay\studentmanagement\student\StudentController.class
+com\sanjay\studentmanagement\security\SecurityConfig.class
+com\sanjay\studentmanagement\student\StudentRepository.class
